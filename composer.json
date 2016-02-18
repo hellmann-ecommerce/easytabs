@@ -10,14 +10,5 @@
             "name": "Template Masters Team",
             "email": "support@templates-master.com"
         }
-    ],
-    "require": {
-        "tm/core": "*"
-    },
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "http://tmhub.github.io/packages/"
-        }
     ]
 }
